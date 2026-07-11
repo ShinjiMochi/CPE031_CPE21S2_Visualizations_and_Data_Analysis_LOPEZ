@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  <img width="450" alt="Muteki" src="https://github.com/user-attachments/assets/e76b00bc-8cde-4d1c-9801-8ccf3fca36b8" />
+  <img width="450" alt="Stego" src="https://github.com/user-attachments/assets/c31b2fb6-4038-4c16-9fbd-c83ff6aa1588" />
 </div>
 
 ###
